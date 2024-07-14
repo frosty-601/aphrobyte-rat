@@ -10,8 +10,8 @@ client.remove_command("help")
 
 ### CONFIGURATION
 
-token = "{token}"
-guild_id = "{guildid}"
+token = "{MTI2MjA2ODk1NDY3NTk0MTQ5OQ.Ge3-QJ.mDcZzO6tq3-YHIBuY_8cJtJtxrTJsqf3lEdnUI}"
+guild_id = "{1237716069603479572}"
 autostart = "{autostart}"
 antivm = "{antivm}"
 
